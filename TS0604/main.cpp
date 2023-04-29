@@ -29,8 +29,6 @@ int main() {
 	cout << C * B << endl; // Scale
 
 	cout << A * C << endl; // Inconsistent
-
-	system("pause");
 	return 0;
 
 }
