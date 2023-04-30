@@ -1,7 +1,7 @@
 //Author: ¼B®a¦¨
 //Date: 2023/04/29
-//Last Update: 2023/04/29
-//Description: The implementation of NumberGame class
+//Last Update: 2023/04/30
+//Description: The implementation of VecNf class
 
 #include "VecNf.h"
 #include <iostream>

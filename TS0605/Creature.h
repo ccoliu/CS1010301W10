@@ -1,6 +1,7 @@
 #pragma once
 #include <iostream>
 #include <map>
+#include "Diary.h"
 using namespace std;
 
 class Creature
@@ -9,6 +10,7 @@ private:
 	string name;
 	string idx;
 	string output = "";
+	int day_idx;
 	map<string,int> status;
 public:
 	Creature(string name);
